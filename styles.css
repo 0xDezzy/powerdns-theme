@@ -7,3 +7,22 @@
     color: var(--text-color)!important;
     border-bottom: 0 solid transparent;
 }
+
+.skin-blue .wrapper,
+.skin-blue .main-sidebar,
+.skin-blue .left-side {
+    background-color: var(--sidebar-bg-color)!important;
+}
+
+.main-footer {
+    background: var(--footer-bg-color)!important;
+    padding: 15px;
+    color: var(--text-color);
+    border-top: 1px solid var(--footer-border-color) !important;
+}
+
+.nav-tabs-custom>.tab-content {
+    background: var(--card-bg-color);
+    padding: 10px;
+    border-radius: var(--border-radius) !important;
+}
