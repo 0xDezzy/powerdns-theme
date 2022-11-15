@@ -1,4 +1,4 @@
 :root {
-    import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/variables.css");
-    import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/colors.css");
+    @import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/variables.css");
+    @import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/colors.css");
 }
