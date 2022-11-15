@@ -31,3 +31,24 @@
 .register-page {
     background: var(--login-bg-color);
 }
+
+.login-logo a,
+.register-logo a {
+    color: var(--logo-color);
+}
+
+.login-box-body,
+.register-box-body {
+    background: #var(--card-bg-color);
+    padding: 20px;
+    border-top: 0;
+    color: var(--text-color);
+}
+
+.form-control {
+    color: var(--text-color);
+    background-color: var(--color-dark-gray);
+    background-image: none;
+    border: 1px solid var(--color-black);
+    border-radius: 0px;
+}
