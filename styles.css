@@ -26,3 +26,8 @@
     padding: 10px;
     border-radius: var(--border-radius) !important;
 }
+
+.login-page,
+.register-page {
+    background: var(--login-bg-color);
+}
