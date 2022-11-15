@@ -27,6 +27,8 @@
     --lt-color-overlay-dark: #fff !important;
     --lt-color-overlay-transparent: rgba(0, 0, 0, 0.1) !important;
     --lt-shadow-website-overlay: 0 0 7px 0 rgba(0, 0, 0, 0.3) !important;
+    --color-white: #ffffff !important;
+    --color-black: #000000 !important;
     --gray-50: #f2f2f3!important;
     --gray-100: #e5e6e7!important;
     --gray-200: #cacdce!important;
