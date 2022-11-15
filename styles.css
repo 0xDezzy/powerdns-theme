@@ -58,3 +58,13 @@
     background-color: var(--color-dark-gray);
     z-index: 800;
 }
+
+.box {
+    position: relative;
+    border-radius: 0px;
+    background: var(--color-black);
+    border-top: 3px solid var(--red-500);
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
