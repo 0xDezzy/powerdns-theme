@@ -2,9 +2,9 @@
     --border-radius: 0px;
     --card-bg-color: var(--gray-800);
     --text-color: var(--color-white);
-    --sidebar-bg-color: var(--gray-900);
-    --footer-bg-color: var(--gray-900);
-    --footer-border-color: var(--gray-900);
+    --sidebar-bg-color: var(--color-black);
+    --footer-bg-color: var(--color-black);
+    --footer-border-color: var(--color-black);
     --login-bg-color: var(--color-dark-gray);
     --logo-color: var(--color-white);
 }
