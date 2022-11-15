@@ -1,5 +1,3 @@
-:root {
-    @import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/variables.css");
-    @import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/colors.css");
-    @import: url("https://raw.githubusercontent.com/0xDezzy/powerdns-theme/main/styless.css");
-}
+@import url("variables.css");
+@import url("colors.css");
+@import url("styless.css");
